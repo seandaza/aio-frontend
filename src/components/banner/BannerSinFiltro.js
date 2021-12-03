@@ -1,4 +1,3 @@
-import banner from './banner.css'
 import AIOHostingLogo from './AIOHostingLogo.png'
 import {Filtro} from "../filtro/Filtro";
 import { HomeRegresar } from "./btn_nav_inf/HomeRegresar";
