@@ -1,0 +1,42 @@
+Nav{
+    width: 98%;
+    height: 7rem;
+    background: linear-gradient(90deg,#3d4484,#b853db);
+    margin-left: 1%;
+    
+}
+
+.navsup{
+    display: grid;
+    grid-template-columns: 20rem 30rem 15rem;
+    grid-template-rows: 1fr;
+}
+
+.navinf{
+    display: grid;
+    grid-template-columns: 15rem 30rem 15rem;
+    grid-template-rows: 1fr;
+    
+}
+
+.logo{
+    margin-left: 1.2rem;
+    width: 10rem;
+    height: 12rem;
+}
+
+.contBtnInf{
+    
+    color: whitesmoke;
+    grid-column: 4/4;
+    margin-top: 7.5rem;
+    margin-left: 1rem;
+}
+
+.idioma{
+    color: whitesmoke;
+    grid-column: 2/4;
+    margin-top: 5rem;
+    margin-right: 3rem;
+    margin-left: 6%;
+}

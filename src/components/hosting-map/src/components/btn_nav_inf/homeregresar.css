@@ -1,0 +1,30 @@
+button{
+    width: 6rem;
+    height: 3rem;
+    margin-top: 3rem;
+    color: white;
+    background-color: Transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+
+.homebtn{
+    width: 6rem;
+    padding: 0.5rem;
+    text-align: right;
+    font-size: 1.5rem;
+    border-right: 0.16rem solid #FFFF;
+}
+
+.regresarbtn{
+    width: 6rem;
+    margin-right: 1rem;
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.btnInferior{
+    grid-column: 10;
+    margin-right: 2rem;
+}

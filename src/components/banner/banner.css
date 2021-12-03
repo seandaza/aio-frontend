@@ -1,0 +1,31 @@
+Nav{
+    width: 100vw;
+    height: 7rem;
+    background: linear-gradient(90deg,#3d4484,#b853db);
+}
+
+.navsup{
+    display: grid;
+    grid-template-columns: 18rem 30rem 15rem;
+    grid-template-rows: 1fr;
+
+}
+
+.navinf{
+    display: grid;
+    grid-template-columns: 7rem 30rem 15rem;
+    grid-template-rows: 1fr;
+    margin-bottom: 5%;
+}
+
+.logoBanner{
+    margin-top: 2rem;
+    width: 10rem;
+    height: 10rem;
+}
+
+.contBtnInf{
+    grid-column: 4/4;
+    margin-top: 3rem;
+    margin-left: 11rem;
+}
