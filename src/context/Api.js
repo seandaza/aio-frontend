@@ -1,5 +1,5 @@
 //const server = "http://localhost:3000";
-const server = "https://61aaaf2834e347008fcc4139--relaxed-morse-4883ee.netlify.app/";
+const server = "https://61aaaf2834e347008fcc4139--relaxed-morse-4883ee.netlify.app";
 const apiAdmin = `${server}/admin`;
 const apiLoginUser = `${apiAdmin}/login`
 const apiRegister = `${apiAdmin}/register`
